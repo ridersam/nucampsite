@@ -1,0 +1,59 @@
+body {
+    font-family: "Open Sans", sans-serif,
+}
+
+h1, h2, h3 {
+    font-family: "Architects Daughter", cursive;
+}
+
+h1 {
+    color: rgb(49, 49, 49);
+}
+
+h2 {
+    color: #331c02;
+}
+
+header h2 {
+    color: rgb(49, 49, 49);
+}
+
+.loginTitle h3 {
+    font-family:'Courier New', Courier, monospace
+}
+
+.site-footer {
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0px;
+    padding: 30px;
+    background-image: linear-gradient(to left, #484bd4, #30c587, #03491a) ;
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #1c60ad;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
